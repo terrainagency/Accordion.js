@@ -1,6 +1,8 @@
-# ghost-accordion
+# Accordion.js
 
-Accordion.js is an agnostic component for defining collapsable content on a page.
+Dependencies: GSAP
+
+Accordion.js is an agnostic component for defining collapsable content on a page. Designed for use with GSAP and Tailwind.
 
 # Usage
 
