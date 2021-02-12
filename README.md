@@ -19,3 +19,5 @@ v1.0
 - [x] Single accordions
 - [x] Support multiple panels within an accordion
 - [ ] Enable callbacks
+
+[<- back to Ghost](https://github.com/terrainagency/Ghost)
