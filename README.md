@@ -17,5 +17,5 @@ Accordion.js is a work in progress.
 v1.0
 - [x] Initial state
 - [x] Single accordions
-- [ ] Support multiple panels within an accordion
-- [ ] Enable more advanced configuration
+- [x] Support multiple panels within an accordion
+- [ ] Enable callbacks
